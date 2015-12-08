@@ -1,2 +1,2 @@
-# c-sharp-activecollab-feather-sdk
-A C# port of the PHP Active Collab Feather SDK (https://github.com/activecollab/activecollab-feather-sdk)
+# C# Active Collab 5 SDK
+A C# port of the PHP Active Collab 5 SDK (https://github.com/activecollab/activecollab-feather-sdk).
